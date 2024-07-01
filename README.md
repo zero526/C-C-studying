@@ -1,2 +1,2 @@
-# C-C-studying
+# Coding Study
 C, C++, C#, Python
