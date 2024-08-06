@@ -2,6 +2,8 @@
 #include<string>
 #include<vector>
 
+test
+
 using namespace std; //입출력 네임스페이스 생략
 
 //입력
